@@ -1,4 +1,4 @@
-// File: /home/roushan/Downloads/dumpingdata/app/layout.js
+// File: D:\next\dumpingdata\app\layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
